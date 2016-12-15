@@ -3,3 +3,17 @@
 ################################################################################
 
 /packages/xunit.runner.visualstudio.2.0.1
+/packages/xunit.extensibility.execution.2.0.0
+/packages/xunit.extensibility.core.2.0.0
+/packages/xunit.core.2.0.0
+/packages/xunit.assert.2.0.0
+/packages/xunit.abstractions.2.0.0
+/packages/xunit.2.0.0
+/packages/System.ComponentModel.Annotations.4.3.0
+/packages/EntityFramework.6.1.3
+/src/DavidsonRFB.Election.Business/bin/Debug
+/src/DavidsonRFB.Election.Business/obj/Debug
+/src/DavidsonRFB.Election.Business.Tests/bin/Debug/netcoreapp1.0
+/src/DavidsonRFB.Election.Business.Tests/obj/Debug/netcoreapp1.0
+/src/DavidsonRFB.Election.Web/bin/Debug/netcoreapp1.0
+/src/DavidsonRFB.Election.Web/obj/Debug
